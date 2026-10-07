@@ -1,0 +1,12 @@
+Codex Dictation
+Copyright 2026 PedroLLou and contributors.
+
+The application uses a modified OpenAI Codex app-server, Apache-2.0 licensed.
+Upstream revision: a956835d020762cb2b570053af06f643a11c0ecc (v0.160.0).
+Changes: realtime handoff admission disabled for dictation-only operation;
+regression test, Windows test temporary-directory support, lockfile normalization.
+The complete patch is in patches/codex-dictation.patch.
+Upstream copyright/license notices are in third-party/codex-NOTICE and codex-LICENSE.
+
+This is an independent community project, not an OpenAI or T3 Code product.
+Dependency license texts and inventory are in third-party/.

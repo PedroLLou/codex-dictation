@@ -1,0 +1,27 @@
+# Bundled Python dependencies
+
+- aioice 0.10.2: BSD-3-Clause
+- aiortc 1.15.0: BSD-3-Clause
+- av 16.1.0: BSD-3-Clause
+- cffi 2.1.1: MIT-0
+- comtypes 1.4.17: MIT
+- cryptography 50.0.2: Apache-2.0 OR BSD-3-Clause
+- customtkinter 6.0.0: Creative Commons Zero v1.0 Universal
+- darkdetect 0.8.0: BSD-3-Clause
+- dnspython 2.8.0: ISC
+- google-crc32c 1.9.0: Apache-2.0
+- ifaddr 0.2.0: MIT
+- numpy 2.5.3: BSD-3-Clause AND 0BSD AND MIT AND Zlib AND CC0-1.0
+- packaging 26.3: Apache-2.0 OR BSD-2-Clause
+- pillow 12.3.0: MIT-CMU
+- pip 26.2.1: MIT
+- pycparser 3.0: BSD-3-Clause
+- pyee 14.0.0: MIT
+- pylibsrtp 1.0.0: BSD-3-Clause
+- pyOpenSSL 26.4.0: Apache License, Version 2.0
+- pystray 0.19.5: LGPLv3
+- scipy 1.18.1: See bundled license text
+- six 1.17.0: MIT
+- sounddevice 0.5.6: MIT
+- typing_extensions 4.16.0: PSF-2.0
+- uiautomation 2.0.29: Apache 2.0

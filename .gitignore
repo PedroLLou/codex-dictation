@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.pyc
+userdata/
+empty-workspace/
+target/
+app-bin/
+dist/
+package-build/
+release-staging/
+release-assets/
+tools/
+*.log
+*-validation.json
+validation-failure.json
+auth.json
+.env*

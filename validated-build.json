@@ -1,0 +1,5 @@
+{
+  "binary": "target/release/codex-app-server.exe",
+  "sha256": "3905e61ca29927bfb425cb3174409b1ae1630672e458fd0231ae7b773f92e27c",
+  "validation": "just test -p codex-core --release dictation_fork"
+}
